@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Valorant No No",
+  "version": "1.0",
+  "description": "Prevents and reminds you when trying to install Valorant or visit related websites",
+  "permissions": [
+    "webNavigation",
+    "notifications",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icons/icon48.png"
+    }
+  }
+}
