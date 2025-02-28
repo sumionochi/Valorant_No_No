@@ -2,6 +2,8 @@
 
 This Chrome extension is your bestie when it comes to staying away from that Valorant addiction! It blocks access to Valorant-related websites and installation pages, keeping you focused on the real grind! 💪
 
+<img width="1402" alt="Screenshot 2025-03-01 at 3 12 17 AM" src="https://github.com/user-attachments/assets/05d7e50b-fac1-4cca-90bb-d534bdc9c767" />
+
 ## Features ✨
 
 - Blocks access to Valorant-related websites and installation pages 🛑
